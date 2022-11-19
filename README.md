@@ -37,6 +37,10 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 | Opera              | :white_check_mark: |
 | DuckDuckGo         | :white_check_mark: |
 # Method to Run & Test the Project Locally
-### METHOD 1: 
+### METHOD 1: Download the entire project to the local directory.
+### Open the project with Vscode on local device.
+### Install Vscode Extension Live Server Vscode Extension v5.7.9
+### Open index.html
+### Click Go Live on the bottom bar to view and test the translate at 
 
 
