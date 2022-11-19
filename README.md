@@ -37,6 +37,6 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 | Opera              | :white_check_mark: |
 | DuckDuckGo         | :white_check_mark: |
 # Method to Run & Test the Project Locally
-
+### METHOD 1: 
 
 
