@@ -18,7 +18,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 
 # Build
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
-[Prerequisites & Setups]()<br/> 
+[Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#prerequisites--setups)<br/> 
 [Debugging&Troubleshooting]()<br/> 
 [Synchronous Developing Notes]()<br/> 
 [Testing Result]()<br/> 
@@ -62,6 +62,16 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 </div>
 
 # Prerequisites & Setups
+Use `touch` command in the local Console to create needed files.
+# Synchronous Developing Notes
+Set up buttons for homepage in [index.html](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translatelanguage/index.html):
+```JavaScript
+<div class = "hero">
+        <p>About 3,470,000 results (0,22 seconds)</p>
+        <button>TRANSLATE</button>
+</div>
+```
+[index web server done setting up.PNG]()<br/>
 
   
   
