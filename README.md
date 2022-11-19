@@ -24,7 +24,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [Testing Result](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#tags-and-topics)<br/> 
 # Contribution
-[Author]()
+[Author](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#author)
 # Functionalities/Demo
 - Allows users to translate amongst different languages and obtain accurate translation results.
 # Compatibility
