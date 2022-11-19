@@ -58,8 +58,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "VSCODE" alt = "VSCODE" height = "60" width = "60"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "Javascript" alt = "Javascript" height = "60" width = "60"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title = "HTML5" alt = "HTML5" height = "60" width = "60"/>&nbsp; 
-  
-  
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" height = "60" width = "60"/>&nbsp; 
 </div>
 
   
