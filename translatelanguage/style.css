@@ -7,7 +7,6 @@
     text-decoration: none;
     list-style: none;
 }
-
 body {
     display: flex;
     padding: 0 10px;
@@ -16,7 +15,6 @@ body {
     justify-content: center;
     background: #85A6D4;
 }
-
 .hero {
     max-width: 690px;
     width: 100%;
@@ -24,11 +22,9 @@ body {
     text-align: center;
     background: #fff;
 }
-
 .hero p {
     font-size: 13px;
 }
-
 .hero button {
     width: 30%;
     padding: 14px;
@@ -40,11 +36,9 @@ body {
     color: #fff;
     cursor: pointer;
 }
-
 .hero .button {
     padding: 12px 0;
 }
-
 .button,
 li,
 i {
@@ -52,7 +46,6 @@ i {
     align-items: center;
     justify-content: space-between;
 }
-
 .button .row select {
     color: #333;
     padding: 5px 10px;
@@ -60,31 +53,25 @@ i {
     border: 2px solid #080808;
     background: none;
 }
-
 .button .change {
     color: #002fa7;
     font-size: 20px;
     cursor: pointer;
     transition: transform 0.2s ease;
 }
-
 .button i:active {
     transform: scale(0.9);
 }
-
 .groupy {
     border: 2px solid #080808;
     background: #E0FFFF;
 }
-
 .groupy .text-input {
     display: flex;
 }
-
 .text-input .to-text {
     border-left: 2px solid #080808;
 }
-
 .text-input textarea {
     resize: none;
     height: 100px;
