@@ -22,7 +22,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [Debugging&Troubleshooting](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#debuggingtroubleshooting)<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#synchronous-developing-notes)<br/> 
 [Testing Result](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#testing-result)<br/> 
-[Tags and Topics]()<br/> 
+[Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#tags-and-topics)<br/> 
 # Contribution
 [Author]()
 # Functionalities/Demo
@@ -165,6 +165,7 @@ import countries before scripts to make the countries references function.<br/>
 [done implementing translator.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/done%20implementing%20translator.png)<br/> 
 
 # Tags and Topics 
+node-js, front-end, vscode, npm-package, npx, localhost, css, html, javascript, translator-app. 
 
 # Author
 Krystal Zhang
