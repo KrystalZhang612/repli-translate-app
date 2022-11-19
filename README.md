@@ -21,7 +21,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#prerequisites--setups)<br/> 
 [Debugging&Troubleshooting]()<br/> 
 [Synchronous Developing Notes]()<br/> 
-[Testing Result]()<br/> 
+[Testing Result](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics]()<br/> 
 # Contribution
 [Author]()
