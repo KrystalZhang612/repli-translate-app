@@ -17,7 +17,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 </div>
 
 # Build
-[Method to Run & Test the Project Locally]()<br/> 
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups]()<br/> 
 [Debugging&Troubleshooting]()<br/> 
 [Synchronous Developing Notes]()<br/> 
