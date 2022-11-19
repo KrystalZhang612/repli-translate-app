@@ -54,11 +54,25 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [HTML5](https://en.wikipedia.org/wiki/HTML5)<br/> 
 [CSS3](https://en.wikipedia.org/wiki/CSS)<br/> 
 [Live Server Vscode Extension v5.7.9](https://www.vsixhub.com/vsix/1950/)<br/>
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "VSCODE" alt = "VSCODE" height = "60" width = "60"/>&nbsp; 
+  
+  
+</div>
 
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
