@@ -8,5 +8,6 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 
 ## RepliTranslate App Overview:
 <div>
+  <img src ="https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-1.png">&nbsp;
   
 </div>
