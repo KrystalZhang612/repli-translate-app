@@ -23,3 +23,13 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [Synchronous Developing Notes]()<br/> 
 [Testing Result]()<br/> 
 [Tags and Topics]()<br/> 
+# Contribution
+[Author]()
+# Functionalities/Demo
+- Allows users to translate amongst different languages and obtain accurate translation results.
+
+
+
+
+
+
