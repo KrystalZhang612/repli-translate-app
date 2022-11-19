@@ -48,5 +48,5 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 ### Run `npx http-server`
 ### Run and test the translator App at http://127.0.0.1:8080 or http://172.20.10.8:8080
 ### Hit CTRL-C to stop the server
-
+# 🛠️  Developing Languages, Tools, and Techniques Needed
 
