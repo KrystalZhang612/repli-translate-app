@@ -49,4 +49,18 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 ### Run and test the translator App at http://127.0.0.1:8080 or http://172.20.10.8:8080
 ### Hit CTRL-C to stop the server
 # 🛠️  Developing Languages, Tools, and Techniques Needed
+[Vscode 1.73.1](https://code.visualstudio.com/updates/v1_73)<br/>
+[JavaScript](https://javascript.com)<br/> 
+[HTML5](https://en.wikipedia.org/wiki/HTML5)<br/> 
+[CSS3](https://en.wikipedia.org/wiki/CSS)<br/> 
+[Live Server Vscode Extension v5.7.9](https://www.vsixhub.com/vsix/1950/)<br/>
+
+
+
+
+
+
+
+
+
 
