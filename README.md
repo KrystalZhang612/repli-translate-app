@@ -19,7 +19,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 # Build
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#prerequisites--setups)<br/> 
-[Debugging&Troubleshooting]()<br/> 
+[Debugging&Troubleshooting](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#debuggingtroubleshooting)<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#synchronous-developing-notes)<br/> 
 [Testing Result](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics]()<br/> 
@@ -147,15 +147,13 @@ Add groupy textarea styles:
 ```
 [groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/groupy%20textarea%20styles%20added.png)<br/>
 # Debugging&Troubleshooting
-
-
-
-
-
-
-  
-  
-  
+ERROR: [countries.js](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translatelanguage/countries.js) script and references not imported. DEBUGGING: order issue. In Index.html:
+```JavaScript 
+<script src="countries.js"></script>
+<script src="script.js"></script>
+```
+import countries before scripts to make the countries references function.<br/>
+[done implementing translator.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/done%20implementing%20translator.png)<br/> 
   
 # Testing Result 
 [index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/index%20web%20server%20done%20setting%20up.png)<br/>
@@ -164,6 +162,7 @@ Add groupy textarea styles:
 [button with radius.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/button%20with%20radius.png)<br/>
 [two-way switching arrow.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/two%20way%20switching%20arrow.png)<br/>
 [groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/groupy%20textarea%20styles%20added.png)<br/>
+[done implementing translator.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/done%20implementing%20translator.png)<br/> 
 
 
 
