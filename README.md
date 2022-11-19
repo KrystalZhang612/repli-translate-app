@@ -71,17 +71,15 @@ Set up buttons for homepage in [index.html](https://github.com/KrystalZhang612/K
         <button>TRANSLATE</button>
 </div>
 ```
-[index web server done setting up.PNG]()<br/>
+[index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/index%20web%20server%20done%20setting%20up.png)<br/>
 
   
   
   
   
-  
-  
-  
-  
-  
+# Testing Result 
+
+
   
   
   
