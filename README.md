@@ -61,6 +61,8 @@ My replica of Google Translate App, which is one of the greatest multi-language 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" height = "60" width = "60"/>&nbsp; 
 </div>
 
+# Prerequisites & Setups
+
   
   
   
