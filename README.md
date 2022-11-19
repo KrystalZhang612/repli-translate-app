@@ -15,3 +15,11 @@ My replica of Google Translate App, which is one of the greatest multi-language 
   <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-5.png">&nbsp; 
   <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-6.png">&nbsp; 
 </div>
+
+# Build
+[Method to Run & Test the Project Locally]()<br/> 
+[Prerequisites & Setups]()<br/> 
+[Debugging&Troubleshooting]()<br/> 
+[Synchronous Developing Notes]()<br/> 
+[Testing Result]()<br/> 
+[Tags and Topics]()<br/> 
