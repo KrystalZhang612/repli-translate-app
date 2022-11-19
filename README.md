@@ -27,8 +27,15 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [Author]()
 # Functionalities/Demo
 - Allows users to translate amongst different languages and obtain accurate translation results.
-
-
+# Compatibility
+|  Browsers          | Supported          |
+| -------            | ------------------ |
+| Google Chrome      | :white_check_mark: |
+| Microsoft Edge     | :white_check_mark: |
+| Firefox            | :white_check_mark: |
+| Apple Safari       | :white_check_mark: |
+| Opera              | :white_check_mark: |
+| DuckDuckGo         | :white_check_mark: |
 
 
 
