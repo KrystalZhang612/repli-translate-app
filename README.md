@@ -43,7 +43,10 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 ### Install Vscode Extension [Live Server Vscode Extension v5.7.9](https://www.vsixhub.com/vsix/1950/)
 ### Click `Go Live` on the bottom bar to view and test the translate at http://127.0.0.1:5500/translatelanguage/
 ### `METHOD 2`:
-
-
+### Have Node.js installed in your system.
+### Use `cd` to navigate from Console at the project directory
+### Run `npx http-server`
+### Run and test the translator App at http://127.0.0.1:8080 or http://172.20.10.8:8080
+### Hit CTRL-C to stop the server
 
 
