@@ -20,7 +20,7 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#prerequisites--setups)<br/> 
 [Debugging&Troubleshooting]()<br/> 
-[Synchronous Developing Notes]()<br/> 
+[Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#synchronous-developing-notes)<br/> 
 [Testing Result](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics]()<br/> 
 # Contribution
@@ -72,12 +72,99 @@ Set up buttons for homepage in [index.html](https://github.com/KrystalZhang612/K
 </div>
 ```
 [index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/index%20web%20server%20done%20setting%20up.png)<br/>
+Insert input and output with their placeholders:
+```JavaScript 
+ <div class = "text-input">
+       <textarea spellcheck="false" class = "form-text"
+placeholder="Type text to translate..."></textarea>
+       <textarea spellcheck="false" readonly disabled class =
+"to-text" placeholder ="Translation"></textarea>
+  </div>
+```
+[input and output text boxes initial looks.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/input%20and%20output%20textboxes%20initial%20look.png)<br/> 
+Add CSS styles to make the translator align at center in [style.css](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translatelanguage/style.css):
+``` CSS
+body {
+    display: flex; padding: 0 10px;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #85A6D4;
+} .hero {
+    max-width: 690px;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    background: #fff;
+```
+[translator with better alignment.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translator%20with%20better%20alignment.png)<br/> 
+Add smooth radius effects to the button:
+```CSS
+.hero button {
+    width: 30%;
+    padding: 14px;
+    border: none;
+    margin-top: 9px;
+    font-size: 17px;
+    background: #85A6D4;
+    border-radius: 100px;
+    color: #fff;
+    cursor: pointer;
+}
+```
+[button with radius.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/button%20with%20radius.png)<br/>
+Add a two-way switching arrow:
+```CSS
+ .button .change {
+    color: #002fa7;
+    font-size: 20px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+.button i:active{
+    transform: scale(0.9);
+}
+```
+[two-way switching arrow.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/two%20way%20switching%20arrow.png)<br/>
+Add groupy textarea styles:
+```CSS
+... .groupy {
+    border: 2px solid #080808;
+    background: #E0FFFF;
+}
+...
+.text-input .to-text {
+    border-left: 2px solid #080808;
+}
+.text-input textarea {
+    resize: none;
+    height: 100px;
+    width: 100%;
+    background: none;
+    border: none;
+    font-size: 18px;
+    padding: 10px 15px;
+```
+[groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/groupy%20textarea%20styles%20added.png)<br/>
+# Debugging&Troubleshooting
+
+
+
+
+
 
   
   
   
   
 # Testing Result 
+[index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/index%20web%20server%20done%20setting%20up.png)<br/>
+[input and output text boxes initial looks.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/input%20and%20output%20textboxes%20initial%20look.png)<br/> 
+[translator with better alignment.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translator%20with%20better%20alignment.png)<br/> 
+[button with radius.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/button%20with%20radius.png)<br/>
+[two-way switching arrow.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/two%20way%20switching%20arrow.png)<br/>
+[groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/groupy%20textarea%20styles%20added.png)<br/>
+
 
 
   
