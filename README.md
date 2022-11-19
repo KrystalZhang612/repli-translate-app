@@ -10,5 +10,8 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 <div>
   <img src ="https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-1.png">&nbsp;
   <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-2.png">&nbsp;
-  
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-3.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-4.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-5.png">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-6.png">&nbsp; 
 </div>
