@@ -8,12 +8,12 @@ My replica of Google Translate App, which is one of the greatest multi-language 
 
 ## RepliTranslate App Overview:
 <div>
-  <img src ="https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-1.png">&nbsp;
-  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-2.png">&nbsp;
-  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-3.png">&nbsp; 
-  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-4.png">&nbsp; 
-  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-5.png">&nbsp; 
-  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/RepliTranslate%20App%20Overview-6.png">&nbsp; 
+  <img src ="https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/RepliTranslate%20App%20Overview-1.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/RepliTranslate%20App%20Overview-2.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/RepliTranslate%20App%20Overview-3.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/RepliTranslate%20App%20Overview-4.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/RepliTranslate%20App%20Overview-5.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/RepliTranslate%20App%20Overview-6.PNG">&nbsp; 
 </div>
 
 # Build
