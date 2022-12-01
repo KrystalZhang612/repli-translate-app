@@ -71,7 +71,7 @@ Set up buttons for homepage in [index.html](https://github.com/KrystalZhang612/K
         <button>TRANSLATE</button>
 </div>
 ```
-[index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/index%20web%20server%20done%20setting%20up.png)<br/>
+[index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/index%20web%20server%20done%20setting%20up.PNG)<br/>
 Insert input and output with their placeholders:
 ```JavaScript 
  <div class = "text-input">
@@ -81,7 +81,7 @@ placeholder="Type text to translate..."></textarea>
 "to-text" placeholder ="Translation"></textarea>
   </div>
 ```
-[input and output text boxes initial looks.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/input%20and%20output%20textboxes%20initial%20look.png)<br/> 
+[input and output text boxes initial looks.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/input%20and%20output%20textboxes%20initial%20look.PNG)<br/> 
 Add CSS styles to make the translator align at center in [style.css](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translatelanguage/style.css):
 ``` CSS
 body {
@@ -97,7 +97,7 @@ body {
     text-align: center;
     background: #fff;
 ```
-[translator with better alignment.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translator%20with%20better%20alignment.png)<br/> 
+[translator with better alignment.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/translator%20with%20better%20alignment.PNG)<br/> 
 Add smooth radius effects to the button:
 ```CSS
 .hero button {
@@ -112,7 +112,7 @@ Add smooth radius effects to the button:
     cursor: pointer;
 }
 ```
-[button with radius.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/button%20with%20radius.png)<br/>
+[button with radius.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/button%20with%20radius.PNG)<br/>
 Add a two-way switching arrow:
 ```CSS
  .button .change {
@@ -125,7 +125,7 @@ Add a two-way switching arrow:
     transform: scale(0.9);
 }
 ```
-[two-way switching arrow.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/two%20way%20switching%20arrow.png)<br/>
+[two-way switching arrow.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/two%20way%20switching%20arrow.PNG)<br/>
 Add groupy textarea styles:
 ```CSS
 ... .groupy {
@@ -145,7 +145,7 @@ Add groupy textarea styles:
     font-size: 18px;
     padding: 10px 15px;
 ```
-[groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/groupy%20textarea%20styles%20added.png)<br/>
+[groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/groupy%20textarea%20styles%20added.PNG)<br/>
 # Debugging&Troubleshooting
 ERROR: [countries.js](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translatelanguage/countries.js) script and references not imported. DEBUGGING: order issue. In Index.html:
 ```JavaScript 
@@ -153,16 +153,12 @@ ERROR: [countries.js](https://github.com/KrystalZhang612/KrystalZhang-RepliTrans
 <script src="script.js"></script>
 ```
 import countries before scripts to make the countries references function.<br/>
-[done implementing translator.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/done%20implementing%20translator.png)<br/> 
+[done implementing translator.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/done%20implementing%20translator.PNG)<br/> 
   
 # Testing Result 
-[index web server done setting up.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/index%20web%20server%20done%20setting%20up.png)<br/>
-[input and output text boxes initial looks.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/input%20and%20output%20textboxes%20initial%20look.png)<br/> 
-[translator with better alignment.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/translator%20with%20better%20alignment.png)<br/> 
-[button with radius.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/button%20with%20radius.png)<br/>
-[two-way switching arrow.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/two%20way%20switching%20arrow.png)<br/>
-[groupy textarea styles added.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/groupy%20textarea%20styles%20added.png)<br/>
-[done implementing translator.PNG](https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/done%20implementing%20translator.png)<br/> 
+
+
+
 
 # Tags and Topics 
 node-js, front-end, vscode, npm-package, npx, localhost, css, html, javascript, translator-app. 
