@@ -158,6 +158,16 @@ import countries before scripts to make the countries references function.<br/>
 # Testing Result 
 
 
+<p align = "center">
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/index%20web%20server%20done%20setting%20up.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/input%20and%20output%20textboxes%20initial%20look.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/translator%20with%20better%20alignment.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/button%20with%20radius.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/two%20way%20switching%20arrow.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/groupy%20textarea%20styles%20added.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-RepliTranslate-App/blob/main/testing-result-repli-translate-app/done%20implementing%20translator.PNG">&nbsp;
+</p>
+
 
 
 # Tags and Topics 
